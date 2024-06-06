@@ -7,7 +7,7 @@ Let's practice playing with strings in JavaScript!
 //    strings.
 let str1A = 'Hello';
 let str1B = 'World!';
-let expression1 = "str1A " + "str1B";
+let expression1 = 'str1A ' + ' str1B';
 
 console.log(expression1); //=> 'Hello World!'
 
@@ -45,7 +45,7 @@ let str6A = 'start';
 let str6B = 'end';
 let expression6 = str6A.length - str6B[-1];
 
-let predictExpression6 = 2;
+let predictExpression6 = NaN;
 
 
 /******************** DO NOT MODIFY ANY CODE BELOW THIS LINE *****************/
