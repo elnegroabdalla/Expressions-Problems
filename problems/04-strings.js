@@ -5,9 +5,9 @@ Let's practice playing with strings in JavaScript!
 // 1. Set the value of expression1 to the concatenated string
 //	  of str1A and str1B with a single space in between the
 //    strings.
-let str1A = 'Hello'
-let str1B = 'World!'
-let expression1 = ("Hello " + "World");
+let str1A = 'Hello';
+let str1B = 'World!';
+let expression1 = "str1A " + "str1B";
 
 console.log(expression1); //=> 'Hello World!'
 
@@ -45,7 +45,7 @@ let str6A = 'start';
 let str6B = 'end';
 let expression6 = str6A.length - str6B[-1];
 
-let predictExpression6 = 3;
+let predictExpression6 = 2;
 
 
 /******************** DO NOT MODIFY ANY CODE BELOW THIS LINE *****************/

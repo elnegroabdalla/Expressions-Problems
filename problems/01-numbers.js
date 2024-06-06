@@ -23,7 +23,7 @@ console.log(expression2); //=> 2
 // 3. Set the value of expression3 to the remainder of num3
 //    divided by num2.
 
-let expression3 = num3UM3 % num2; 
+let expression3 = num3 % num2; 
 
 console.log(expression3); //=> 2
 
@@ -32,7 +32,7 @@ console.log(expression3); //=> 2
 //    you think expression4 will evaluate to.
 let expression4 = num1 + 9 * (12 - num2);
 
-let predictExpression4 = 7;
+let predictExpression4 = 65;
 
 // 5. Predict what the value of expression5 will be when printed
 //    to the console. Set predictExpression5 to the value that

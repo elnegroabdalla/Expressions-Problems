@@ -16,7 +16,7 @@ console.log(expression2); //=> false
 
 // 3. Set the value of expression3 to be false or true and true
 
-let expression3; false || (true && true); 
+let expression3 = false || (true && true); 
 
 console.log(expression3); //=> true
 
