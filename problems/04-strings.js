@@ -7,7 +7,7 @@ Let's practice playing with strings in JavaScript!
 //    strings.
 let str1A = 'Hello';
 let str1B = 'World!';
-let expression1 = 'str1A ' + ' str1B';
+let expression1 = str1A  + str1B;
 
 console.log(expression1); //=> 'Hello World!'
 
